@@ -1,3 +1,6 @@
+# [DEPRECATED] 
+hof-theme-govuk has been added directly into hof v19.0.1 and should not be installed separately
+
 # hof-theme-govuk
 
 ## Usage
