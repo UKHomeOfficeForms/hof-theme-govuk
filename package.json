@@ -22,7 +22,7 @@
     "govuk-elements-sass": "^3.0.3",
     "hof-frontend-toolkit": "^2.4.1",
     "hof-govuk-template": "^2.1.0",
-    "hof-template-partials": "^5.4.1"
+    "hof-template-partials": "^5.5.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
